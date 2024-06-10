@@ -1,5 +1,4 @@
-/**********************************************PREPROCESSORS COMMANDS**********************************************************/
-//Train Reservation System - CODED BY ATIF SHEIKH (atif55sheikh@gmail.com)
+
 //Working on basic structure
 //including all libraries for now
 #include<stdio.h>
